@@ -1,0 +1,38 @@
+Script Create for Jose Gonzalez
+Contact jgonzalez76@uc.edu.ve
+
+Lengths and angles of bonds for pyrazinamide_optimization.out
+N1-C2		1.3412
+C2-C3		1.4003
+C3-N4		1.3374
+N4-C5		1.3382
+C5-C6		1.3980
+N1-C6		1.3359
+C2-C7		1.5104
+C7-N8		1.3573
+C7-O9		1.2259
+C3-H10		1.0860
+C5-H11		1.0884
+C6-H12		1.0882
+N8-H13		1.0091
+N8-H14		1.0104
+C2-N1-C6		116.51 
+N1-C2-C7		118.75 
+N1-C2-C3		121.66 
+C3-C2-C7		119.59 
+N4-C3-H10		118.20 
+C2-C3-H10		119.91 
+C2-C3-N4		121.89 
+C3-N4-C5		116.16 
+N4-C5-H11		117.05 
+N4-C5-C6		122.18 
+C6-C5-H11		120.77 
+N1-C6-C5		121.61 
+C5-C6-H12		121.14 
+N1-C6-H12		117.25 
+N8-C7-O9		124.70 
+C2-C7-O9		121.31 
+C2-C7-N8		113.99 
+H13-N8-H14		121.02 
+C7-N8-H14		119.94 
+C7-N8-H13		119.05 
